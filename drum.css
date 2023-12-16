@@ -1,0 +1,58 @@
+*{
+    text-align: center;
+    background-color: black;
+    font-family: 'Dancing Script', cursive;
+}
+
+.title{
+    color: aliceblue;
+    font-size: 80px;
+    text-shadow: 3px 0px rgb(246, 148, 0);
+}
+
+
+.drum{
+    color: black;
+    text-shadow: 3px 0 rgb(40, 40, 40);
+    width: 130px;
+    height: 130px;
+    background-color: aliceblue;
+    font-size: 40px;
+    margin: 10px;
+    font-family: 'Dancing Script', cursive;
+    box-shadow: 3px 3px rgb(246, 148, 0);
+}
+
+.w{
+background-image: url("images/tom1.png");
+}
+
+.a{
+    background-image: url("images/tom2.png");
+}
+
+.s{
+    background-image: url("images/tom3.png");
+}
+
+.d{
+    background-image: url("images/tom4.png");
+}
+
+.j{
+    background-image: url("images/snare.png");
+}
+
+.k{
+    background-image: url("images/crash.png");
+}
+
+.l{
+    background-image: url("images/kick.png");
+}
+
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
